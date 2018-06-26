@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fbemitter": "2.0.2",
     "q": "https://github.com/kriskowal/q.git",
     "restler": "3.4.0",
     "socket.io-client": "1.7.2",
