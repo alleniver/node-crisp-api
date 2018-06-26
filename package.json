@@ -12,7 +12,7 @@
     "fbemitter": "2.0.2",
     "q": "https://github.com/kriskowal/q.git",
     "restler": "3.4.0",
-    "socket.io-client": "1.7.2"
+    "socket.io-client": "1.7.2",
     "restler": "^3.4.0",
     "unit": "^0.0.1-alpha",
     "fbemitter": "https://github.com/facebook/emitter.git"
